@@ -6,6 +6,11 @@
                 "title" : "lorem ipsum",
                 "price" : "20000",
                 "seller": "codashop"
+            },
+            {
+                "title" : "call of duty blackops coldwar",
+                "price" : "20000",
+                "seller": "skinuphoria"
             }
         ]
     }
