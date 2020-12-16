@@ -13,5 +13,28 @@
                 "seller": "skinuphoria"
             }
         ]
-    }
+    },
+
+    "category": [
+        {
+            "id": 239,
+            "name": "Mobile Gaming",
+            "slug": "mobile-gaming"
+        },
+        {
+            "id": 903,
+            "name": "Pc Gaming",
+            "slug": "mobile-gaming"
+        },
+        {
+            "id": 1093,
+            "name": "Lorem Ipsum",
+            "slug": "mobile-gaming"
+        },
+        {
+            "id": 21903,
+            "name": "Ecommerce",
+            "slug": "mobile-gaming"
+        }
+    ]
 }
